@@ -1,0 +1,2 @@
+# wiki
+Docomentación sobre linux
