@@ -1,7 +1,3 @@
-Aquí tienes una documentación técnica sobre el comando `chown`, comenzando por sus usos más básicos y luego profundizando en sus funcionalidades.
-
----
-
 ## Documentación Técnica: El Comando `chown`
 
 ### Introducción
@@ -158,7 +154,3 @@ Además de los usos básicos, `chown` ofrece varias opciones para un control má
     ```bash
     sudo chown -R www-data:www-data /var/www/html/mi_sitio/
     ```
-
-### Conclusión
-
-El comando `chown` es una herramienta indispensable para la administración de sistemas Unix. Dominar sus opciones y entender sus implicaciones de seguridad es fundamental para mantener un sistema robusto y bien configurado. Siempre verifique los permisos y la propiedad después de realizar cambios para asegurar que el sistema funcione como se espera.
